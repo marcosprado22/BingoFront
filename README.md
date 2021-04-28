@@ -1,2 +1,2 @@
 # BingoFront
-Repositório do programa Bingo
+Desenvolvimento de uma plataforma que gera uma cartela de bingo (front)
